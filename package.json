@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "jest": "^29.2.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "rewire": "^6.0.0"
+  }
+}
